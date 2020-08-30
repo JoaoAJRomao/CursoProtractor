@@ -2,7 +2,6 @@
   "name": "curso-protractor-tat",
   "version": "1.0.0",
   "description": "Projeto para o curso de Protractor da Escola TAT",
-  "main": "index.js",
   "scripts": {
     "lint": "npx standard",
     "lint:fix": "npx standard --fix",
@@ -28,8 +27,12 @@
     "type": "git",
     "url": "git+https://github.com/wlsf82/curso-protractor-tat.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "protractor",
+    "testing",
+    "e2e"
+  ],
+  "author": "Professor Walmyr",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/wlsf82/curso-protractor-tat/issues"
